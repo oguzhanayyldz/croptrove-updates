@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Croptrove</title>
+        <item>
+            <title>0.1.2</title>
+            <pubDate>Wed, 30 Sep 2026 14:12:12 +0300</pubDate>
+            <sparkle:version>582</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/oguzhanayyldz/croptrove-updates/releases/download/v0.1.2/Croptrove-0.1.2.zip" length="7346752" type="application/octet-stream" sparkle:edSignature="eh1NLJMhc6Qhv4wJzLQeFHqF8B4oQIkuS11lQgbdMCFKqGwnEf6e/qFVuSdlTNTefWGSRExDsx5s9lNqAueYAw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: /XC62NL4kkEjxODAQd7C5zANeY7W7moe8Ku1CQl2RTsujgO9HVePf0Kjd006JF2WsOn0Kabgmf7Uw3Yq9MenCw==
+length: 1076
+-->
