@@ -4,6 +4,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Croptrove</title>
         <item>
+            <title>0.1.8</title>
+            <pubDate>Sun, 04 Oct 2026 11:21:16 +0300</pubDate>
+            <sparkle:version>857</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/oguzhanayyldz/croptrove-updates/releases/download/v0.1.8/Croptrove-0.1.8.zip" length="8293406" type="application/octet-stream" sparkle:edSignature="9oOtwZL9ZVvOC8dokavhxvq1oEEgVb0TJgDx9Eji+0w/vznHPTY9PGlNtB+rQnFSlQ3lS9+H6sZfJYHWd1c1AA=="></enclosure>
+        </item>
+        <item>
             <title>0.1.7</title>
             <pubDate>Sat, 03 Oct 2026 23:52:09 +0300</pubDate>
             <sparkle:version>847</sparkle:version>
@@ -53,6 +61,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 9CCCkjHCNh5oUA8gXSsAKv0+ydQIhLFnbbY+u9AdLPug0j5jbSyBKHUfUh1Iw+1esOF2Renn/jdBSDxSFDRCBA==
-length: 4221
+edSignature: I3+fPDLJY45mnYL/YPEJM+VW8rgurzDMG6hXnWCX9EM+W1b6C8GMZoA/i1MwgbP6LOV8D0UgcinffWrbV0lOBw==
+length: 4850
 -->
